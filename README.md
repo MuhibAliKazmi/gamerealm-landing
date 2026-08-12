@@ -17,7 +17,7 @@
   </p>
   <br />
 
-  <img src="hero-screenshot.png" alt="GameRealm Hero Section" width="800" />
+  <img src="GameRealm.gif" alt="GameRealm demo" width="800" />
 
   <br /><br />
   <p>
